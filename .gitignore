@@ -1,5 +1,5 @@
 .venv/
 .cph/
 *.exe
-测试/
+test/
 学习/
