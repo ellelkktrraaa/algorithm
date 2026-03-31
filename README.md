@@ -1,0 +1,9 @@
+```plain
+ELA DO SOMETHING MEANINGLESS, DO SOMETHING MAKES YOU HAPPY...
+  IAN
+  --- IAM ALWAYS BY YOUR SIDE.
+  +++ DON'T FIGHT, ACCEPT THEM.
+```
+```cmd
+  git --lost-found
+```
